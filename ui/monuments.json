@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "636e331ba7881eba141977e9"
+  },
+  "name": "Ellora Caves",
+  "city": "Ellora",
+  "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30199.003928875925!2d75.1759524198632!3d20.016884134552104!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x574c6482cf0b89cf!2sEllora%20Caves!5e0!3m2!1sen!2sin!4v1668216585975!5m2!1sen!2sin",
+  "img1": "https://whc.unesco.org/uploads/thumbs/site_0243_0001-1000-666-20151104152442.jpg",
+  "img2": "https://www.onacheaptrip.com/wp-content/uploads/Ajanata-Caves-Aurangabad.jpg",
+  "img3": "https://www.inditales.com/wp-content/uploads/2013/10/ramayana-carved-on-single-stone-ellora-caves.jpg",
+  "desc1": "Ellora is a UNESCO World Heritage Site located in the Aurangabad district of Maharashtra, India. It is one of the largest rock-cut Hindu temple cave complexes in the world, with artwork dating from the period 600–1000 CE. Cave 16 features the largest single monolithic rock excavation in the world, the Kailash temple, a chariot-shaped monument dedicated to the god Shiva. The Kailash temple excavation also features sculptures depicting various Hindu deities as well as relief panels summarizing the two major Hindu epics.",
+  "desc2": "There are over 100 caves at the site, all excavated from the basalt cliffs in the Charanandri Hills, 34 of which are open to public. These consist of 17 Hindu (caves 13–29), 12 Buddhist (caves 1–12) and 5 Jain (caves 30–34) caves, each group representing deities and mythologies prevalent in the 1st millennium CE, as well as monasteries of each respective religion. They were built close to one another and illustrate the religious harmony that existed in ancient India. All of the Ellora monuments were built during the Rashtrakuta dynasty, which constructed part of the Hindu and Buddhist caves, and the Yadava dynasty, which constructed a number of the Jain caves. Funding for the construction of the monuments was provided by royals, traders and the wealthy of the region",
+  "desc3": "Although the caves served as temples and a rest stop for pilgrims,the site's location on an ancient South Asian trade route also made it an important commercial centre in the Deccan region. It is 29 kilometres (18 miles) north-west of Sambhaji Nagar, and about 300 kilometres (190 miles) east-northeast of Mumbai. Today, the Ellora Caves, along with the nearby Ajanta Caves, are a major tourist attraction in the Marathwada region of Maharashtra and a protected monument under the Archaeological Survey of India (ASI)"
+},{
+  "_id": {
+    "$oid": "636e3579a7881eba141977ea"
+  },
+  "name": "Ajanta Caves",
+  "city": "Aurangabad",
+  "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3735.8785629793133!2d75.6990088!3d20.552149!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd97f7014a75e43%3A0x7ca8d7c57639691f!2sAjanta%20Caves!5e0!3m2!1sen!2sin!4v1668229085999!5m2!1sen!2sin",
+  "img1": "https://www.drishtiias.com/images/uploads/1576485286_image1.jpg",
+  "img2": "https://lp-cms-production.imgix.net/2019-06/GettyImages-470607634_high.jpg?auto=format&q=40&ar=16%3A9&fit=crop&crop=center&fm=auto&w=1446",
+  "img3": "https://cdn.britannica.com/70/153470-050-F4594C27/Ajanta-Caves-Maharashtra-India.jpg?w=400&h=300&c=crop",
+  "desc1": "The Ajanta Caves are approximately 30 rock-cut Buddhist cave monuments dating from the 2nd century BCE to about 480 CE in the Aurangabad district of Maharashtra state in India.[1][note 1] The caves include paintings and rock-cut sculptures described as among the finest surviving examples of ancient Indian art, particularly expressive paintings that present emotions through gesture, pose and form.",
+  "desc2": "They are universally regarded as masterpieces of Buddhist religious art. The caves were built in two phases, the first starting around the 2nd century BCE and the second occurring from 400 to 650 CE, according to older accounts, or in a brief period of 460–480 CE according to later scholarship.[6] The site is a protected monument in the care of the Archaeological Survey of India,[7] and since 1983, the Ajanta Caves have been a UNESCO World Heritage Site.",
+  "desc3": "The Ajanta Caves constitute ancient monasteries and worship-halls of different Buddhist traditions carved into a 75-metre (246 ft) wall of rock The caves also present paintings depicting the past lives and rebirths of the Buddha, pictorial tales from Aryasura's Jatakamala, and rock-cut sculptures of Buddhist deities.Textual records suggest that these caves served as a monsoon retreat for monks, as well as a resting site for merchants and pilgrims in ancient India.While vivid colours and mural wall-painting were abundant in Indian history as evidenced by historical records, Caves 16, 17, 1 and 2 of Ajanta form the largest corpus of surviving ancient Indian wall-painting."
+},{
+  "_id": {
+    "$oid": "636e3785a7881eba141977eb"
+  },
+  "name": "Elephanta Caves",
+  "city": "Gharapuri",
+  "location": "https://goo.gl/maps/nsg22kyM5VFY4bQU7",
+  "img1": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.holidify.com%2Fplaces%2Fmumbai%2Felephanta-caves-sightseeing-2866.html&psig=AOvVaw3goF7mXQhKRKPSPMl2gaXJ&ust=1668253625319000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjv6p2HpvsCFQAAAAAdAAAAABAE",
+  "img2": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fasimustsee.nic.in%2Felephanta-caves.php&psig=AOvVaw3goF7mXQhKRKPSPMl2gaXJ&ust=1668253625319000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjv6p2HpvsCFQAAAAAdAAAAABAM",
+  "img3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.trawell.in%2Fmaharashtra%2Fmumbai%2Felephanta-caves&psig=AOvVaw3goF7mXQhKRKPSPMl2gaXJ&ust=1668253625319000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjv6p2HpvsCFQAAAAAdAAAAABAR",
+  "desc1": "The Elephanta Caves are a collection of cave temples predominantly dedicated to the Hindu god Shiva. They are on Elephanta Island, or Gharapuri (literally 'the city of caves'), in Mumbai Harbour, 10 kilometres (6.2 mi) east of Mumbai in the Indian state of Mahārāshtra. The island, about 2 kilometres (1.2 mi) west of the Jawaharlal Nehru Port, consists of five Hindu caves, a few Buddhist stupa mounds that date back to the 2nd century BCE,and two Buddhist caves with water tanks.",
+  "desc2": "These date to between the 5th and 9th centuries, and scholars attribute them to various Hindu dynasties.They are most commonly placed between the 5th and 7th centuries. Many scholars consider them to have been completed by about 550 CE.",
+  "desc3": "The Elephanta Caves contain rock cut stone sculptures, mostly in high relief, that show syncretism of Hindu and Buddhist ideas and iconography.The caves are hewn from solid basalt rock. Except for a few exceptions, much of the artwork is defaced and damaged. The main temple's orientation as well as the relative location of other temples are placed in a mandala pattern. The carvings narrate Hindu mythologies, with the large monolithic 5.45 metres (17.9 ft) Trimurti Sadashiva (three-faced Shiva), Nataraja (Lord of dance) and Yogishvara (Lord of Yoga) being the most celebrated"
+},{
+  "_id": {
+    "$oid": "636e3b17a7881eba141977ec"
+  },
+  "name": "CST, Mumbai",
+  "city": "mumbai",
+  "location": "https://goo.gl/maps/LJrr5S6nGNXgaK4aA",
+  "img1": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fzeenews.india.com%2Fmumbai%2Fmumbais-cst-is-now-chhatrapati-shivaji-maharaj-terminus-railway-code-remains-unchanged-2020131.html&psig=AOvVaw0Qm1AgzXt4a5mKLKKKT-bh&ust=1668254560773000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDytdyKpvsCFQAAAAAdAAAAABAD",
+  "img2": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.inditales.com%2Fcst-mumbai-heritage-railway-station%2F&psig=AOvVaw0Qm1AgzXt4a5mKLKKKT-bh&ust=1668254560773000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDytdyKpvsCFQAAAAAdAAAAABAH",
+  "img3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheprint.in%2Findia%2Fadani-railways-gmr-enterprises-oberoi-realty-among-9-bidders-for-mumbais-cst-redevelopment%2F669754%2F&psig=AOvVaw0Qm1AgzXt4a5mKLKKKT-bh&ust=1668254560773000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDytdyKpvsCFQAAAAAdAAAAABAR",
+  "desc1": "Chhatrapati Shivaji Terminus (officially Chhatrapati Shivaji Maharaj Terminus, formerly Victoria Terminus, Bombay station code: CSMT (mainline)/ST (suburban)), is a historic railway terminus and UNESCO World Heritage Site in Mumbai, Maharashtra, India.",
+  "desc2": "The terminus was designed by a British born architectural engineer Frederick William Stevens from an initial design by Axel Haig, in an exuberant Italian Gothic style. Its construction began in 1878, in a location south of the old Bori Bunder railway station, and was completed in 1887, the year marking 50 years of Queen Victoria's rule.",
+  "desc3": "In March 1996 the station name was changed from Victoria Terminus to 'Chhatrapati Shivaji Terminus' (with station code CST) after Shivaji, the 17th-century warrior king who employed guerrilla tactics to contest the Mughal Empire and found a new state in the western Marathi-speaking regions of the Deccan Plateau."
+},{
+  "_id": {
+    "$oid": "636e4014a7881eba141977ed"
+  },
+  "name": "Kailasa Temple",
+  "city": "Ellora",
+  "location": "https://goo.gl/maps/BMAMQUgB7NcJD4io7",
+  "img1": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKailasa_Temple%2C_Ellora&psig=AOvVaw0ts4_K8Ua15Fym1FuMi5sS&ust=1668255202845000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCOh6-NpvsCFQAAAAAdAAAAABAI",
+  "img2": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvedicfeed.com%2Fkailasa-temple-of-ellora-caves%2F&psig=AOvVaw0ts4_K8Ua15Fym1FuMi5sS&ust=1668255202845000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCOh6-NpvsCFQAAAAAdAAAAABAM",
+  "img3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dham-yatra.com%2Fblog%2F2019%2F07%2F16%2Fkailash-temple-when-men-built-paradise-for-god%2F&psig=AOvVaw0ts4_K8Ua15Fym1FuMi5sS&ust=1668255202845000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCOh6-NpvsCFQAAAAAdAAAAABAR",
+  "desc1": "The Kailasha (IAST: Kailāśa) or Kailashanatha (IAST: Kailāśanātha) temple is the largest of the rock-cut Hindu temples at the Ellora Caves, Aurangabad District, Maharashtra, India. A megalith carved from a rock cliff face, it is considered one of the most remarkable cave temples in the world because of its size, architecture and sculptural treatment, and 'the climax of the rock-cut phase of Indian architecture'. The top of the superstructure over the sanctuary is 32.6 metres (107 ft) above the level of the court below, although the rock face slopes downwards from the rear of the temple to the front. Archaeologists believe it is made from a single rock",
+  "desc2": "Kailasa temple lacks a dedicatory inscription, but there is no doubt that it was commissioned by a Rashtrakuta ruler. Its construction is generally attributed to the Rashtrakuta king Krishna I (r. 756-773 CE), based on two epigraphs that link the temple to 'Krishnaraja'",
+  "desc3": "The Kailasa temple (Cave 16) is the largest of the 34 Buddhist, Jain and Hindu cave temples and monasteries known collectively as the Ellora Caves, ranging for over two kilometres (1.2 mi) along the sloping basalt cliff at the site.Most of the excavation of the temple is generally attributed to the eighth century Rashtrakuta king Krishna I (r. c. 756 – 773), with some elements completed later. The temple architecture shows traces of Pallava and Chalukya styles. The temple contains a number of relief and free-standing sculptures on a grand scale equal to the architecture, though only traces remain of the paintings which originally decorated it"
+}]
